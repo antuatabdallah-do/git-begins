@@ -5,3 +5,5 @@ git clone
 git push
 git pull, git pull
 git stash
+-> commande permettant de crée un branche et switcher : git branch add-create-branch-command 
+                                                      : git branch
