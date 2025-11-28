@@ -3,5 +3,5 @@ git clone
 
 ➔ Les 3 commandes de push:
 git push
-git pull
+git pull, git pull
 git stash
