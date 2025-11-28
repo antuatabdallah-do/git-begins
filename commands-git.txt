@@ -1,0 +1,7 @@
+➔ Cloner un repository:
+git clone
+
+➔ Les 3 commandes de push:
+git push
+git pull
+git stash
